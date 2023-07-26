@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/PranathiGoketi-Kairo/Documents/POM_Framework(failed)">
+    <classes>
+      <class name="Teststeps.Bookingsteps">
+        <methods>
+          <include name="setQuota"/>
+          <include name="setSearch"/>
+          <include name="setDestination"/>
+          <include name="SDate1"/>
+          <include name="setCoach1"/>
+          <include name="setArrival1"/>
+          <include name="setOrigin1"/>
+          <include name="setDate"/>
+          <include name="setCity"/>
+          <include name="LaunchBrowser"/>
+          <include name="setClick1"/>
+          <include name="testafter"/>
+        </methods>
+      </class> <!-- Teststeps.Bookingsteps -->
+    </classes>
+  </test> <!-- C:/Users/PranathiGoketi-Kairo/Documents/POM_Framework(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
